@@ -1,7 +1,8 @@
+
 body::before {
   display: block;
   content: '';
-  height: 60px;
+  /* height: 60px; */
 }
 
 #map {
@@ -16,3 +17,4 @@ body::before {
     width: 50%;
   }
 }
+
